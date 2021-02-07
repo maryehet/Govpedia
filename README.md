@@ -2,11 +2,15 @@
 
 This project was submmited to the RTC BlackWings Hackathon 2021 by Team Gladiators
 
-Contributors:
-Adeola-Adesoba
-maryehet
-shettyd1
-Mia Tran
+# Contributors
+
+Adeola-Adesoba : [https://github.com/Adeola-Adesoba]
+
+maryehet : [https://github.com/maryehet]
+
+shettyd1 : [https://github.com/shettyd1]
+
+Mia Tran : [https://github.com/MiaTran]
 
 
 ### Quick Start
