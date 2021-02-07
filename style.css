@@ -1,0 +1,57 @@
+.banner {
+  background-image: url(https://images.unsplash.com/photo-1562164038-91cfe1d7cbce?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2551&q=80);
+  padding: 50px; 
+  padding-bottom: 200px;
+  background-size: cover;
+}
+
+main{
+  background-color: lightblue;
+  padding: 5%;
+  padding-top: 5px;
+}
+
+h1{
+  font-family: Courier New;
+  color: darkblue;
+  font-size: 300%;
+}
+
+h2{
+  color: darkblue;
+  font-family: 'Trebuchet MS';
+}
+
+.news {
+  font-family: 'Trebuchet MS';
+  
+}
+
+.content{
+  display: flex;
+}
+
+img{
+  width: 50%;
+  margin-right: 5%;
+}
+
+.search input{
+  /* margin-left: 5%; */
+  margin-top: 1%;
+  width: 70%;
+}
+
+p{
+  font-family: 'Trebuchet MS';
+}
+
+.name{
+  display: flex;
+  flex-direction: row;
+}
+
+.name button{
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
