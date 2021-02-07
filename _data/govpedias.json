@@ -1,0 +1,14 @@
+[{
+    "title": "Ms",
+    "name": "Nancy Pelosi",
+    "age" : 80,
+    "gender": "Female",
+    "districRepresented": "California 12th Congressional District",
+    "yearInService": 10,
+    "email": "nancypelosi@usgov.org",
+    "contact": "14567895670",
+    "twitter" : "nancypelosi",
+    "website" : "pelosiforcongress.com",
+    "partyAffiliation": "Democratic Party",
+    "portfolio": "Speaker U.S House of Representatives"
+}]
