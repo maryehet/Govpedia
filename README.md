@@ -1,5 +1,7 @@
 # Govpedia
 
+This project was submmited to the RTC BlackWings Hackathon 2021
+
 ### Quick Start
 ```bash
 # Install dependencies
