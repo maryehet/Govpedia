@@ -10,7 +10,7 @@ maryehet : [https://github.com/maryehet]
 
 shettyd1 : [https://github.com/shettyd1]
 
-Mia Tran : [https://github.com/MiaTran]
+Mia Tran : [https://github.com/mytran2111]
 
 
 ### Quick Start
