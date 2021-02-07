@@ -1,6 +1,13 @@
 # Govpedia
 
-This project was submmited to the RTC BlackWings Hackathon 2021
+This project was submmited to the RTC BlackWings Hackathon 2021 by Team Gladiators
+
+Contributors:
+Adeola-Adesoba
+maryehet
+shettyd1
+Mia Tran
+
 
 ### Quick Start
 ```bash
